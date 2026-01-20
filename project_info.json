@@ -1,0 +1,17 @@
+{
+  "projeAdı": "Linux Paket Yönetim Arayüzü",
+  "kategori": "Sistem Yönetimi",
+  "Yazar": "Safa Emre Karaca",
+  "sürüm": "1.0.0",
+  "Açıklama": "Apt, Snap ve Flatpak paketlerini tek bir arayüzden sorgulayan otomasyon aracı.",
+  "özellikler": [
+    "Apt, Snap ve Flatpak taraması",
+    "Otomatik sistem gereksinim kontrolü (Self-Check)",
+    "Paket detaylarını listeleme",
+    "Hata yönetimi ve raporlama"
+  ],
+  "Gereksinimler": {
+    "os": "Windows/linux",
+    "dil": "Python"
+  }
+}
